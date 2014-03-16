@@ -1,0 +1,26 @@
+{
+  "name": "jquerytest",
+  "title": "jQuerytest",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ufo/test1",
+  "author": {
+    "name": "ufoqhmdt@gmail.com",
+    "email": "UFO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ufo/test1.git"
+  },
+  "bugs": "https://github.com/ufo/test1/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ufo/test1/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
